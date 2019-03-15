@@ -1,0 +1,14 @@
+Flask
+tweepy
+pymongo
+gunicorn
+textblob
+selenium
+requests[socks]
+yweather
+beautifulsoup4
+requests
+demjson
+requests-futures
+pytest
+raven[flask]
